@@ -1,7 +1,11 @@
 # Python-Data-Analysis-Covid19
 
-> This project is based on Coursera project course. Please enroll to this course by visiting this [link](https://www.coursera.org/projects/covid19-data-analysis-using-python). In this scenario, I analyzed the COVID-19 death dataset 2020. 
-> I analyzed the data by producing outputs such as: Top 5 countries with the highest death rates, average death rate, the country with the highest and lowest death rate. In addition, I also joined the two datasets: Death rate dataset 2020 and world happiness dataset 2019 and conducting linear regression between the death rate of COVID-19 against some factors that define what a happy country is.
+> This project is based on Coursera project course. Please enroll to this course by visiting this [link](https://www.coursera.org/projects/covid19-data-analysis-using-python). 
+> In this analysis, I examined the COVID-19 death dataset for 2020. My exploration included several key outputs:
+> Top 5 countries with the highest death rates: This identified the nations most severely impacted by the pandemic in terms of mortality.
+> Average death rate: This provided a general sense of the global fatality rate for COVID-19.
+> Countries with the highest and lowest death rates: This highlighted both the extreme ends of the mortality spectrum.
+> Furthermore, I combined the 2020 death rate data with the 2019 world happiness dataset. This allowed me to conduct a linear regression analysis, investigating the potential relationship between COVID-19 death rates and factors associated with national happiness.
 
 > For your information, I used Jupyter Lab program to run this file. Alternatively, you can use Visual Code Studio and install the Jupyter Lab extensions. 
 
