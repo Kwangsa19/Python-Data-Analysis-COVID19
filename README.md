@@ -1,4 +1,4 @@
-# Python-Data-Analysis-Covid19
+# Python-Data-Analysis-COVID19
 
 > This project is based on Coursera project course. Please enroll to this course by visiting this [link](https://www.coursera.org/projects/covid19-data-analysis-using-python). 
 > In this analysis, I examined the COVID-19 death dataset for 2020. My exploration included several key outputs:
