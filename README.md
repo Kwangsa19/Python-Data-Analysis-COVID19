@@ -30,7 +30,7 @@
 * Death across all countries: <br>
 ![all of them](https://github.com/Kwangsa19/Python-Data-Analysis-Covid19/assets/135963482/b2d04a73-f28c-45f6-a7af-a1c6f2ff0796)
 
-2. The correlation between the death rate of COVID-19 against some factors that define what a happhy country is.
+2. Conduct a linear regression analysis, investigating the potential relationship between COVID-19 death rates and factors associated with national happiness.
    In addition, to determine the correlation:
    - If R^2 is close to 1, it suggests a strong correlation.
    - If R^2 is around 0.5, it suggests a moderate correlation.
