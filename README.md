@@ -1,6 +1,6 @@
 # Python-Data-Analysis-COVID19
 
-> This project is based on Coursera project course. Please enroll to this course by visiting this [link](https://www.coursera.org/projects/covid19-data-analysis-using-python). 
+> This project is based on Coursera project course. For full information, please visit this [link](https://www.coursera.org/projects/covid19-data-analysis-using-python). 
 > In this analysis, I examined the COVID-19 death dataset for 2020. My exploration included several key outputs:
 > Top 5 countries with the highest death rates: This identified the nations most severely impacted by the pandemic in terms of mortality.
 > Average death rate: This provided a general sense of the global fatality rate for COVID-19.
